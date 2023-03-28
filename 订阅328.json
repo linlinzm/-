@@ -1,0 +1,51 @@
+﻿{
+    "dyname": "自学展源",
+    "dyzuozhe": "76541@qq.com",
+    “apiyuan”：[
+      
+      {
+        "name": "量子资源",
+        "searchurl": "https://cj.lziapi.com/api.php/provide/vod/?ac=detail&wd=",
+        “搜索”：
+            “User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36”,
+        “详细网址”：
+            "https://cj.lziapi.com/api.php/provide/vod/?ac=detail&ids=",
+        “细节”：
+            “User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36”
+      },
+      
+    ],
+    “展元”：[
+        {
+      "name": "1080P",
+      "searchUrl": "https://1080p.tv",
+      "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "playUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "websearchurl": "https://1080p.tv/vodsearch/-------------/?wd=",
+      "searchname": "//h4[@class=&&&title text-overflow&&&]/text()",
+      "searchid": "//div[@class=&&&stui-vodlist__box&&&]/a/@href",
+      "searchpic": "//a[@class=&&&stui-vodlist__thumb lazyload&&&]/@data-original",
+      "searchstarr": "//span[@class=&&&pic-text text-right&&&]/text()",
+      "detaillist": "//ul[@class=&&&stui-content__playlist clearfix&&&]",
+      "detailxl": "//div[@class=&&&stui-vodlist__head&&&]/h3/text()",
+      "detailjs": "//li/a/text()",
+      "detailjsurl": "//li/a/@href"
+    },
+
+      {
+      "name": "333",
+      "searchUrl": "https://www.ylwt33.com",
+      "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "playUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "websearchurl": "https://www.ylwt33.com/vodsearch/-------------.html?wd=",
+      "searchname": "//a[@class=&&&searchkey&&&]/text()",
+      "searchid": "//a[@class=&&&searchkey&&&]/@href",
+      "searchpic": "//a[@class=&&&myui-vodlist__thumb img-lg-150 img-md-150 img-sm-150 img-xs-100 lazyload&&&]/@data-original",
+      "searchstarr": "//span[@class=&&&pic-text text-right&&&]/text()",
+      "detaillist": "//ul[@class=&&&myui-content__list sort-list clearfix&&&]",
+      "detailxl": "//ul[@class=&&&nav nav-tabs active&&&]/li/a/text()",
+      "detailjs": "//li/a/text()",
+      "detailjsurl": "//li/a/@href"
+    },
+]
+  }
